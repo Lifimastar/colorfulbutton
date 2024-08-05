@@ -1,4 +1,23 @@
-html, body {
-    margin: 0;
-    padding: 0;
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.project-title {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.project-link {
+    font-size: 1.2em;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline:
 }
